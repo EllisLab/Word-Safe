@@ -21,9 +21,9 @@ Prevents words from being longer than a certain length
 
 ## Change Log
 
-- Version 1.3
+- 1.3
 	- Updated plugin to be 2.0 compatible
-- Version 1.2
+- 1.2
 	- Fixed bug where entities were being broken up, just like a boy band.
-- Version 1.1
+- 1.1
 	- Fixed bug where the breakup setting the letter at the break was duplicated.
